@@ -5,3 +5,4 @@
 [Coolapk](https://www.coolapk.com/apk/rikka.appops)
 
 [GitHub](https://github.com/RikkaApps/App-Ops-issue-tracker/releases/tag/files)
+/storage/emulated/0/Android/data/moe.shizuku.privileged.api/
